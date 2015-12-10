@@ -1,0 +1,32 @@
+{
+  "main": "index.js",
+  "name": "xlsxtojson",
+  "version": "1.0.0",
+  "description": "convert complex xlsx to json",
+  "homepage": "https://github.com/ipanli/xlsxtojson",
+  "author": "zan",
+  "licenses": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ipanli/xlsxtojson.git"
+  },
+  "keywords": [
+    "xlsx",
+    "excel",
+    "json",
+    "mongo"
+  ],
+  "scripts": {
+    "test": "nodeunit test"
+  },
+  "engines": {
+    "node": "~0.10.25"
+  },
+  "dependencies": {
+    "glob": "3.2.9",
+    "minimatch": "~0.2.14",
+    "moment": "^2.10.2",
+    "node-xlsx": "~0.4.0"
+  },
+  "devDependencies": {}
+}
