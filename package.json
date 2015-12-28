@@ -1,7 +1,7 @@
 {
   "main": "index.js",
   "name": "xlsxtojson",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "convert complex xlsx to json",
   "homepage": "https://github.com/ipanli/xlsxtojson",
   "author": "zan",
