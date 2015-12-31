@@ -1,8 +1,8 @@
 {
   "main": "index.js",
   "name": "xlsxtojson",
-  "version": "0.0.1",
-  "description": "convert complex xlsx to json",
+  "version": "0.0.2",
+  "description": "convert complex xlsx to json || excel 数据转为json",
   "homepage": "https://github.com/ipanli/xlsxtojson",
   "author": "zan",
   "licenses": "MIT",
